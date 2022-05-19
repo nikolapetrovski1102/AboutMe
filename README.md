@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikola Petrovski;
+- 👀 I’m interested in Full Stack development;
+- 🌱 I’m currently learning Front End and start learning Back End;
+- 💞️ I’m looking to collaborate on Front End projects;
+- 📫 You can reach me with email nikola_petrovski02@outlook.com; 
