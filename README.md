@@ -1,31 +1,29 @@
-![giphy (3)](https://user-images.githubusercontent.com/86731640/186731711-92b55953-68aa-4089-b366-84e5ab2ef8f9.gif) ![giphy (6)](https://user-images.githubusercontent.com/86731640/186732185-f59b4282-494c-410b-a72a-81c7e4e7cd50.gif) 
+<h1 align="center">Hi 👋, I'm Nikola Petrovski</h1>
+<h3 align="center">A passionate frontend developer from Macedonia</h3>
 
-# Hi there 🖐️ 
-![Profile views](https://gpvc.arturio.dev/nikolapetrovski1102) [![GitHub followers](https://img.shields.io/github/followers/nikolapetrovski1102.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nikolapetrovski1102?tab=followers) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) 
-> ####  Welcome to my github profile i am Nikola Petrovski and i am now focusing on web development (Frontend) and start learning backend. I am also a student still learning most of the languages.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolapetrovski1102" alt="nikolapetrovski1102" /></a> </p>
 
-## This here shows my activity status on github, keep in mind I am still student but im trying to boost my career
+- 🔭 I’m currently working on small projects to learn more my latest project is [Chat Application](https://github.com/nikolapetrovski1102/Chat-App)
 
-<details><summary>Here you can see how active am I</summary>
-<p>
+- 👯 I’m looking to collaborate on bigger web projects, one of my first projects is [3 simple games such as Memory game, Flash cards and A millionaire](https://github.com/nikolapetrovski1102/GameProject)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=nikolapetrovski1102&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikolapetrovski1102&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+- 🤝 I’m looking for help with a job or just experience
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikola-petrovski-02a159267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikola-petrovski-02a159267/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17228121/nikola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17228121/nikola" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/nikola.petrovski.5243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nikola.petrovski.5243" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/nikola.petrovski_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nikola.petrovski_/?hl=en" height="30" width="40" /></a>
 </p>
-</details>
 
-<details><summary> And theese are my most used languages by now </summary>
-<p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolapetrovski1102&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+# This here shows my activity status on github, keep in mind I am still student but im trying to boost my career
 
-</p>
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolapetrovski1102&show_icons=true&locale=en&layout=compact" alt="nikolapetrovski1102" /></p>
 
-### Here you can see my first game that i created, don't expect anything special it's a simple game
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolapetrovski1102&show_icons=true&locale=en" alt="nikolapetrovski1102" /></p>
 
-[![Website shields.io](https://img.shields.io/website-game-down-blue-red/http/shields.io.svg)](https://nikolapetrovski1102.github.io/GameProject/) [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://github.com/nikolapetrovski1102/GameProject.git)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nikolapetrovski1102)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nikola.petrovski.5243) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nikola.petrovski_/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/rgtoxin)  [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolapetrovski1102&" alt="nikolapetrovski1102" /></p>
