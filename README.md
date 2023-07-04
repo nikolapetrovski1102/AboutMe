@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolapetrovski1102" alt="nikolapetrovski1102" /></a> </p>
 
-- 🔭 I’m currently working on small projects to learn more my latest project is [Chat Application](https://github.com/nikolapetrovski1102/Chat-App)
+- 🔭 I’m currently working on https://github.com/IvanOhanaOneMk/HHM-Website.git
 
-- 👯 I’m looking to collaborate on bigger web projects, one of my first projects is [3 simple games such as Memory game, Flash cards and A millionaire](https://github.com/nikolapetrovski1102/GameProject)
+- 👯 I’m looking to collaborate on big web projects.
 
-- 🤝 I’m looking for help with a job or just experience
+- 🤝 I’m currently having my first job experience. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
